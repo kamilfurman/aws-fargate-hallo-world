@@ -1,0 +1,16 @@
+.git
+.gitignore
+.idea
+**/.mypy_cache
+**/.pytest_cache
+.vscode
+Dockerfile
+Pipfile
+Pipfile.lock
+data
+**.egg-info
+tmp2
+.dockerignore
+.env
+build_container.sh
+examples/
